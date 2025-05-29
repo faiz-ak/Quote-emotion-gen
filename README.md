@@ -6,7 +6,8 @@ To ensure smooth collaboration and code integration, please follow the steps bel
 
 ### 🌱 Branching Strategy
 
-Before starting your task, create your own branch from `main`:
+Before starting your task, create your own branch from `main`:  
+Once added, you can directly clone the repo, create branches, push your changes, and raise pull requests — no need to fork.
 
 ```bash
 git checkout -b feature/<area>-<task>-<yourname>
