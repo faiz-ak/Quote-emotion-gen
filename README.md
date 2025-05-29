@@ -10,6 +10,8 @@ Before starting your task, create your own branch from `main`:
 Once added, you can directly clone the repo, create branches, push your changes, and raise pull requests — no need to fork.
 
 ```bash
+### for Creation of branch
+
 git checkout -b feature/<area>-<task>-<yourname>
 Example:
 git checkout -b feature/frontend-header-faizan
