@@ -31,6 +31,7 @@ git pull origin main
 git checkout your-branch-name
 git merge main
 
-Happy coding!
+### Let’s work together efficiently and keep the codebase clean and stable!
+### Happy coding!
 
 
