@@ -1,4 +1,29 @@
 # Quote-emotion-gen
+
+## 🧠 Features
+
+- 🎭 Select an emotion to view relevant quotes.
+- 💬 Display quote text along with the author's name.
+- 🔁 Show a new quote on clicking “Next Quote.”
+- ❤️ Like a quote and display the like count.
+- 🗨️ Add comments below each quote.
+- 🕒 View all comments with timestamps.
+- 🔐 Sign up or log in via Google or email.
+- 🚫 Prevent multiple likes from the same user.
+- 📌 Bookmark/save favorite quotes.
+- 👤 View saved quotes in the user profile.
+- 🔍 Search quotes by keyword or author.
+- 🧩 Filter quotes by emotion or most liked.
+- 📋 Copy quote to clipboard with one click.
+- 🔗 Share quote via link or social media.
+- 😄 Emoji-based reactions on quotes.
+- 🌙 Enable dark mode and light mode toggle.
+- ⬇️ Load more quotes using infinite scroll or a button.
+- 📱 Mobile-responsive, clean, minimal UI.
+- 📅 Show a “Quote of the Day” on the homepage.
+
+---
+
 ## 👥 Contribution Guidelines
 
 To ensure smooth collaboration and code integration, please follow the steps below:
